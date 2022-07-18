@@ -1,0 +1,9 @@
+# Environment
+world 00-maze1-v3.maz
+
+# Robot position (x, y, phi) and executable
+S4 1600 1600 0 cockroach_new.py
+
+# Objects
+Can 1000 500 0
+Can 1000 800 0
